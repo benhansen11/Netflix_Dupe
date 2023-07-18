@@ -1,3 +1,9 @@
+This is a Netflix React JS app I made. 
+
+The app uses firebase as a back-end which provides authentication for users and allows them to create their own accounts and favorite/unfavorite 
+movies/shows from the TMDB API. Thank you to Code Commerce on youtube for the great tutorial and instructions on how to get the front and back-end 
+of an app connected using firebase, TMDB API, React JS, and Tailwind CSS. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
